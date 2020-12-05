@@ -50,3 +50,4 @@ sudo pip3 install -e .
 
 echo "** install shapely"
 sudo apt-get install python3-shapely
+sudo pip3 install imgaug
